@@ -1,7 +1,7 @@
 ![Dashboard](https://github.com/user-attachments/assets/9db4f480-079d-4f8a-86de-82160ebf4a2b)
 
 
-# Healthcare Cost & Risk Profile Dashboard
+# Healthcare Cost & Risk Profile Dashboard 
 
 An interactive Power BI dashboard designed to analyze patient data across demographics, health risk levels, weight status, and healthcare costs. This project enables stakeholders to gain actionable insights into the cost distribution and risk patterns in a healthcare dataset.
 
