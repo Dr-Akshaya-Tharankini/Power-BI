@@ -48,13 +48,17 @@ The dashboard is designed to **optimize revenue cycle efficiency** by highlighti
 ## Dashboard Preview
 
 ### Page 1 – Claims & Denials Overview  
-"C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-10-14 224210.png"
+<img width="1321" height="742" alt="Screenshot 2025-10-14 224210" src="https://github.com/user-attachments/assets/eccc0073-78a0-42ad-ae5a-88b3ff1c57fe" />
 
 ### Page 2 – Denial Trends & Recommendations  
-"C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-10-14 223946.png"
+<img width="1324" height="745" alt="Screenshot 2025-10-14 223946" src="https://github.com/user-attachments/assets/478f873d-5e7d-4605-b702-9be91846d73e" />
 
 ---
 
-## 👩‍⚕️ Author
-**Dr. [Your Name]**  
+# Dr. Akshaya Tharankini  
+**Healthcare Data & AI Specialist | SQL | Python | Power BI**  
+
+📧 Email: drakshayatharankini@gmail.com  
+
+🔗 LinkedIn: [https://www.linkedin.com/in/dr-akshaya-tharankini/](https://www.linkedin.com/in/dr-akshaya-tharankini/)  
 
